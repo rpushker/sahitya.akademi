@@ -26,5 +26,5 @@ language_data <- get_sahitya_akademi_winners("Hindi")[1:5, ]
 get_authors_dob_dod(language_data)
 }
 \author{
-Ravindra Pushker
+Pushker Ravindra
 }

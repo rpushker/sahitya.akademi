@@ -10,7 +10,8 @@ get_author_html(author)
 \item{author}{a character vector of length 1. For example, 'Ruskin Bond'.}
 }
 \value{
-An xml_document containing the html text with author's details like date of birth, etc.
+An xml_document containing the html text with author's details
+like date of birth, etc.
 }
 \description{
 Get Author HTML Content from WikiPedia.
@@ -22,5 +23,5 @@ get_author_html
 get_author_html("Ruskin Bond")
 }
 \author{
-Ravindra Pushker
+Pushker Ravindra
 }

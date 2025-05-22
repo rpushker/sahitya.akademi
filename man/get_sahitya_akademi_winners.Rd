@@ -7,7 +7,7 @@
 get_sahitya_akademi_winners(language)
 }
 \arguments{
-\item{language}{a character vector of length 1, for exampple, 'Emglish'.}
+\item{language}{a character vector of length 1, for example, 'English'.}
 }
 \value{
 A data.frame containing list of Sahitya Akademi award winners with
@@ -26,5 +26,5 @@ get_sahitya_akademi_winners
 get_sahitya_akademi_winners("Hindi")
 }
 \author{
-Ravindra Pushker
+Pushker Ravindra
 }

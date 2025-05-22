@@ -28,5 +28,5 @@ Oudh, British India", "18 January 2003(2003-01-18) (aged 95)"))
 get_dob_from_infobox(author_info_df)
 }
 \author{
-Ravindra Pushker
+Pushker Ravindra
 }

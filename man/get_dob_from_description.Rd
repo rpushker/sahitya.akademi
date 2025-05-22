@@ -7,7 +7,8 @@
 get_dob_from_description(author_html)
 }
 \arguments{
-\item{author_html}{a xml_document containing the html text with author's details like date of birth, etc.}
+\item{author_html}{a xml_document containing the html text with author's
+details like date of birth, etc.}
 }
 \value{
 A list of data of birth and date of death with remarks in case there were
@@ -25,5 +26,5 @@ author_html <- get_author_html("Ruskin Bond")
 get_dob_from_description(author_html)
 }
 \author{
-Ravindra Pushker
+Pushker Ravindra
 }

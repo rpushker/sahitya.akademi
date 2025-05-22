@@ -9,9 +9,13 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: Analyze Sahitya Akademi Awards Data.
+Description: Analyze awards data by Sahitya Akademi, India's National Academy of Letters, a central institution for literary dialogue, publication, and promotion in India, working in 24 Indian languages, including English.
 Depends: R (>= 3.1.0),
-Imports: dplyr, rvest, stringr
+Imports: 
+    dplyr,
+    magrittr,
+    rvest,
+    stringr
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
